@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "342336619371",
+    "project_id": "fir-autenticacao-91ded",
+    "storage_bucket": "fir-autenticacao-91ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342336619371:android:8c633ae79f0dcb2297422e",
+        "android_client_info": {
+          "package_name": "adeniltonmorais.android.firebaseautenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342336619371-0740ncglmnqoe0eb9slm3qg8kmvibt68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVM4rgIAyppfW5rJpxk4DzZepMoznkBpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342336619371-0740ncglmnqoe0eb9slm3qg8kmvibt68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342336619371:android:bdfc3f56a6e7435597422e",
+        "android_client_info": {
+          "package_name": "adeniltonmorais.android.telalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342336619371-0740ncglmnqoe0eb9slm3qg8kmvibt68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVM4rgIAyppfW5rJpxk4DzZepMoznkBpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342336619371-0740ncglmnqoe0eb9slm3qg8kmvibt68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
